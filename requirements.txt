@@ -1,0 +1,5 @@
+python-dotenv
+pydantic-ai
+pydantic-ai[logfire]
+langfuse
+nest_asyncio
