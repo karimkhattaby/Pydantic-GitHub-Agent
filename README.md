@@ -2,6 +2,10 @@
 
 A simple AI agent that answers questions about GitHub Repos<br>
 
+## Agent Architecture
+
+![Diagram](https://i.imgur.com/zQ5H5MC.png)
+
 ## Screenshots
 
 ![CLI and model reasoning](https://i.imgur.com/9cEiJ6M.png)
@@ -47,3 +51,10 @@ A simple AI agent that answers questions about GitHub Repos<br>
 
 ![langfuse traces](https://i.imgur.com/PBaxwH5.png)
 ![trace example](https://i.imgur.com/abYO6sQ.png)
+
+## n8n Implementation
+
+I also implemented the same workflow using n8n, here's an example run:
+![chat](https://i.imgur.com/iZGqMot.png)
+![output](https://i.imgur.com/pYeMLpL.png)
+![logs](https://i.imgur.com/OOMRegL.png)
